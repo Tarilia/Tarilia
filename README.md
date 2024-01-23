@@ -1,17 +1,32 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=797979&random=false&width=600&height=60&lines=%D0%94%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C+%D0%BD%D0%B0+%D0%BC%D0%BE%D1%8E+%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%83+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=696969&center=true&vCenter=true&random=false&width=1000&height=30&lines=%D0%94%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C+%D0%B2+%D0%BC%D0%BE%D0%B9+GitHub!+%F0%9F%A4%97)](https://git.io/typing-svg)
 
 ### <div align="center">Меня зовут Татьяна, я Python-разработчик. 
-Окунулась с головой в бескрайний мир коддинга, примерно, год назад. С каждым днем интерес мой только возрастает, количество того, что хочется и необходимо узнать, увеличивается в геометрической прогрессии, оторвать себя от компьютера становится очень тяжело. Есть неутолимое желание свой интерес использовать на благо общества, поэтому, буду рада приглашениям на работу в этой увлекательной сфере😊
+<p align="center">С прошлого года погрузилась с головой в бескрайний мир коддинга, чем больше узнаю, чем больше решаю задач, тем сильнее возрастает мой интерес. Количество закладок, что необходимо изучить и понять, разрастается в геометрической прогрессии, жадность к информации бьет все рекорды 😎 Буду безумно рада новым знакомствам, общению и обмену опытом 🤗</p>
+<p align="center">Также буду рада предложениям работы/стажировки 😊</p>
 </div>
-
 <br/> 
 
-## Языки и инструменты:
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## <p align="center">Языки и инструменты:</p>
+<div align="center">
+  
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-05122A?style=flat&logo=SQLAlchemy)&nbsp;
+![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql)&nbsp;
+![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
+![SQLite3](https://img.shields.io/badge/-SQLite3-05122A?style=flat&logo=SQLite3)&nbsp;
 
+</div>
 <br/>
 
-## Связаться со мной:  
+## <p align="center">Связаться со мной:</p>  
 <div align="center">
 <a href="https://github.com/Tarilia" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -19,12 +34,13 @@
 <img src=https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
 </div>
-
 <br/>
+
+<div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tarilia&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tarilia&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tarilia&theme=default&utcOffset=8)
 
-
+</div>
 <br/>
