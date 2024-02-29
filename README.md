@@ -17,6 +17,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+![DRF](https://img.shields.io/badge/-DRF-05122A?style=flat&logo=drf)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
@@ -24,7 +25,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-05122A?style=flat&logo=SQLAlchemy)&nbsp;
 ![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql)&nbsp;
-![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
 ![SQLite3](https://img.shields.io/badge/-SQLite3-05122A?style=flat&logo=SQLite3)&nbsp;
 
 </div>
