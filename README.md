@@ -1,19 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=696969&center=true&vCenter=true&random=false&width=1000&height=30&lines=%D0%94%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C+%D0%B2+%D0%BC%D0%BE%D0%B9+GitHub!+%F0%9F%A4%97)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=081C24&center=true&vCenter=true&random=false&width=1200&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-### <div align="center">Меня зовут Татьяна 
-<p align="center">С прошлого года погрузилась с головой в бескрайний мир коддинга, чем больше узнаю, чем больше решаю задач, тем сильнее возрастает мой интерес. Количество закладок, что необходимо изучить и понять, разрастается в геометрической прогрессии, жадность к информации бьет все рекорды 😎 Буду безумно рада новым знакомствам, общению и обмену опытом 🤗</p>
+### <div align="center">My name is Tatyana 
+<p align="center">Since last year, I plunged headlong into the endless world of coding; the more I learn, the more problems I solve, the more my interest grows. The number of bookmarks that need to be studied and understood is growing exponentially, the greed for information is breaking all records 😎 I will be incredibly glad to meet new people, communicate and share experiences 🤗</p>
 <br/> 
 
-## <p align="center">Образование:</p>
-<p align="center">Высшее - юридическое. Окончила МПСИ и стала юристом гражданского права. Не совсем про IT, но развитое логическое мышление и умение читать и понимать документацию, мне очень пригодились!</p>
+## <p align="center">Education:</p>
+<p align="center">Higher education – legal. Not really about IT, but developed logical thinking and the ability to read and understand documentation were very useful to me :)</p>
 </div>
-<p align="center">Дополнительно обучилась на python-разработчика в ОШ "Хекслет"</p>
+<p align="center">Additionally trained as a python developer</p>
 </div>
-<p align="center">В данный момент, жадно смотрю в сторону нейросетей)))</p>
+<p align="center">At the moment, I am eagerly looking towards neural networks)))</p>
 </div>
 <br/>
 
-## <p align="center">Языки и инструменты:</p>
+## <p align="center">Languages ​​and tools:</p>
 <div align="center">
   
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
