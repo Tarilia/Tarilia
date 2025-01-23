@@ -1,19 +1,28 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=081C24&center=true&vCenter=true&random=false&width=1200&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-### <div align="center">My name is Tatyana 
-<p align="center">Since last year, I plunged headlong into the endless world of coding; the more I learn, the more problems I solve, the more my interest grows. The number of bookmarks that need to be studied and understood is growing exponentially, the greed for information is breaking all records 😎 I will be incredibly glad to meet new people, communicate and share experiences 🤗</p>
-<br/> 
+### <div align="center">Меня зовут Татьяна </div>
+- Живу в Москве
+- Вы можете связаться со мной в [Telegram](https://t.me/Tarilia) 🤗
+- Профиль на [Kaagle](https://www.kaggle.com/tarilia)
+<br/>
 
-## <p align="center">Education:</p>
-<p align="center">Higher education – legal. Not really about IT, but developed logical thinking and the ability to read and understand documentation were very useful to me :)</p>
-</div>
-<p align="center">Additionally trained as a python developer</p>
-</div>
-<p align="center">At the moment, I am eagerly looking towards neural networks)))</p>
+### <div align="center">Обо мне:</p>
+<p align="center">Начала свой путь в информационных технологиях с изучения языка python, специализируясь на backend-разработке. Стараюсь писать чистый, поддерживаемый и понятный код.</p>
+<p align="center">Со временем backend-разработки стало мало, заинтересовалась искусственным интеллектом и начала осваивать разработку нейросетей. На данный момент, считаю это направление наиболее перспективным и интересным. Обладая аналитическим складом ума, усидчивостью и некоторой занудностью, считаю, что отлично подхожу для данного направления 😄.</p>
+  <p align="center">Активно интересуюсь последними достижениями в области искусственного интеллекта и машинного обучения, что позволяет мне быстро осваивать новые технологии.</p>
 </div>
 <br/>
 
-## <p align="center">Languages ​​and tools:</p>
+### <p align="center">Образование:</p>
+<p align="center">Высшее образование – юридическое. Окончила МПСИ, специализация - гражданское право. Не совсем об IT, но развитое логическое мышление и умение читать и понимать документацию мне очень пригодились 😏</p>
+</div>
+<p align="center">Дополнительно обучилась на python-разработчика в ОШ "Хекслет"</p>
+</div>
+<p align="center">В данный момент обучаюсь на разработчика нейросетей в The Founder</p>
+</div>
+<br/>
+
+### <p align="center">Языки и библиотеки:</p>
 <div align="center">
   
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -29,7 +38,15 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-05122A?style=flat&logo=SQLAlchemy)&nbsp;
 ![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql)&nbsp;
-![SQLite3](https://img.shields.io/badge/-SQLite3-05122A?style=flat&logo=SQLite3)&nbsp;
+![PyTest](https://img.shields.io/badge/-PyTest-05122A?style=flat&logo=PyTest)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)&nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch)&nbsp;
+![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=OpenCV)&nbsp;
+![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=Keras)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Matplotlib)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=NumPy)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)&nbsp;
+![SkLearn](https://img.shields.io/badge/-SkLearn-05122A?style=flat&logo=SkLearn)&nbsp;
 
 </div>
 <br/>
