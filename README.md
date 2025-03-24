@@ -71,6 +71,11 @@ _____________
      ##### Стек:
      - python, git, poetry, scikit-learn, matplotlib, seaborn, xgboost. 
 _____________
+- [Transformer_and_traditional_models](https://github.com/Tarilia/Transformer_and_traditional_models) :
+ - провела исследовательскую работу по сравнеию современных трансформеров с традиционными моделями по классификации текста.
+ ##### Стек: 
+ - python, git, transformers, datasets, scikit-learn, matplotlib, seaborn, pandas, tqdm, evaluate.
+_____________
 <br/>
 
 <div align="center">
