@@ -53,7 +53,7 @@
 
 ### <p align="center">Pet-проекты:</p>
 _____________
-  - [AIChatFlutter]((https://github.com/Tarilia/AIChatFlutter)) : 
+  - [AIChatFlutter](https://github.com/Tarilia/AIChatFlutter) : 
      - создала мультиплатформенное приложение для общения с искусственным интеллектом, разработанное с использованием Flutter
      - приложение поддерживает работу как с OpenRouter.ai, так и с VseGPT.ru, предоставляя гибкие возможности для взаимодействия с различными языковыми моделями.
      #### Стек:
